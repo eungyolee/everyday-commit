@@ -429,4 +429,5 @@
 2023.09.30  
 2023.10.01  
 2023.10.02  
-2023.10.03 (도메인 바꿈 eungyolee.studio -> eungyolee.tech)
+2023.10.03 (도메인 바꿈 eungyolee.studio -> eungyolee.tech)  
+2023.10.04 (요아소비 콘서트 가고 싶었는데... / 학교 가기 싫어ㅓㅓㅓ)
